@@ -1,0 +1,40 @@
+*{
+    background-color: black;
+    color: #fff;
+}
+
+label{
+    font-size: 18px;
+}
+
+.container{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 300px;
+}
+
+input{
+    border-color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.button{
+    background-color: lightcoral;
+    color: #fff;
+    height: auto;
+    width: 200px;
+    border: none;
+    padding: 10px;
+    border-radius: 35px;
+    margin: 50px;
+}
+.reset{
+    background-color: green;
+    height: auto;
+    width: 200px;
+    padding: 10px;
+    border-radius: 35px;
+    margin: 50px;
+}
